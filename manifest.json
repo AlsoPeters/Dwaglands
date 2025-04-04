@@ -1,6 +1,6 @@
 {
   "name": "Dwaglands",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/thunderstore-io",
   "description": "Modpack for Dwaglands Valheim server",
   "dependencies": [
@@ -13,11 +13,16 @@
     "Smoothbrain-Cooking-1.2.1",
     "Smoothbrain-Groups-1.2.9",
     "Therzie-Monstrum-1.5.1",
-    "MSchmoecker-MultiUserChest-0.6.1",
     "ValheimModding-Jotunn-2.24.3",
     "Advize-PlantEverything-1.19.0",
     "RustyMods-Seasonality-3.5.4",
     "Nextek-SpeedyPaths-1.0.8",
-    "Smoothbrain-Mining-1.1.5"
+    "Smoothbrain-Mining-1.1.5",
+    "Azumatt-AzuWearNTearPatches-1.0.7",
+    "Azumatt-AzuWorkbenchTweaks-1.0.5",
+    "OdinPlus-OdinCampsite-1.5.8",
+    "Azumatt-SleepSkip-1.2.3",
+    "SpikeHimself-XPortal-1.2.23",
+    "OhhLoz-HoneyPlus-6.1.0"
   ]
 }
